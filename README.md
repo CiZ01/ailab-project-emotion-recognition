@@ -17,4 +17,5 @@ We have chosen the FER2013 dataset from Kaggle for our project. The FER2013 data
 ### Dependencies
 
 You can install the dependencies listed in the requirements.txt file by running the following command: \
-`$ pip install -r requirements.txt `
+`$ pip install -r requirements.txt ` \
+Per installare pyTorch clicca [qui](https://pytorch.org/get-started/locally/) e segui la pagina.
