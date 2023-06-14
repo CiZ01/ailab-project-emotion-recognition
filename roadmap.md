@@ -4,7 +4,9 @@ Vogliamo costruire un modello di riconoscimento delle emozioni facciali che sia 
 
 ## Roadmap
 
-_può essere utile questa chat con chatGPT: https://chat.openai.com/share/3c45a9a6-212b-4d34-b056-fd994322ed04 \_
+_può essere utile [questa chat](https://chat.openai.com/share/3c45a9a6-212b-4d34-b056-fd994322ed04) con chatGPT_
+
+_leggere anche il file [README.md](README.md) per installare le dipendenze._
 
 ### 1. Scelta del dataset
 Come dataset è stato scelto [FER2013](https://www.kaggle.com/datasets/msambare/fer2013), questa versione è più piccola dell'originale e presenta problemi di bilanciamento ma è gratuita, abbiamo le immagini e il csv.
@@ -43,7 +45,12 @@ Come già detto vogliamo sviluppare un sistema per il riconoscimento facciale in
 ### 1. Riconoscimento in tempo reale
 
 Per il riconoscimento facciale in tempo reale possiamo usare __openCV__ che ci permette di aprire una finestra con la webcam ed estrarre i frame che registra. Useremo sempre __openCV__ per il riconoscimento faccciale, quindi scontornare un rettangolo intorno al viso.
+
+
 ### 1.1 Riconoscimento facciale
 
-Per il riconoscimento facciale possiamo usare __opencv__ qua troviamo come farlo molto semplicemente [Face Detection.](https://www.datacamp.com/tutorial/face-detection-python-opencv)
-### 2. 
+Per il riconoscimento facciale possiamo usare __opencv__ qua troviamo come farlo molto semplicemente [Face Detection.](https://www.datacamp.com/tutorial/face-detection-python-opencv), non so se __dlib__ è più potente. [Prima implementazione della funzione.](face-detection-test.ipynb). Va solo implementata l'estrazione.
+
+### 2. Riconoscimento multiplo da immagine
+
+Il [metodo visto precedentemente](#11-riconoscimento-facciale) permette di riconoscere più visi contemporanemente nella stessa immagine.
