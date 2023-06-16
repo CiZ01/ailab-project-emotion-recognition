@@ -6,6 +6,10 @@ Vogliamo costruire un modello di riconoscimento delle emozioni facciali che sia 
 
 _può essere utile [questa chat](https://chat.openai.com/share/3c45a9a6-212b-4d34-b056-fd994322ed04) con chatGPT_
 
+[google drive](https://drive.google.com/drive/folders/1YeyhGmm42QaeAChpb5eC2MT-S_g-BeDX?usp=sharing)
+
+[CNN scores](https://docs.google.com/spreadsheets/d/1NQQeKDO32D5jg2Gy4if1HjneqP9zVu16jJ0L_OdR_B8/edit?usp=sharing)
+
 _leggere anche il file [README.md](README.md) per installare le dipendenze._
 
 ### 1. Scelta del dataset

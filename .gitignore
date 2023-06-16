@@ -1,3 +1,4 @@
 .pdf
 /dataset/*
 /__pycache__/*
+best_[a-z]*
