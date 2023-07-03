@@ -2,3 +2,5 @@
 /dataset/*
 /__pycache__/*
 best_[a-z]*
+*.pth
+/camera_output/*

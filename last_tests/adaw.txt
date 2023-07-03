@@ -1,0 +1,723 @@
+# 16;0.0001
+Caricato modello Vanilla!
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.994
+Training acc is 24.3915%
+One test epoch is over
+Validation acc is 35.5300%
+Epoch 0 - Validation Loss: 1.622553108135859
+-------MODELLO SALVATO-------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.520
+Training acc is 40.1687%
+One test epoch is over
+Validation acc is 46.7922%
+Epoch 1 - Validation Loss: 1.3892678290605545
+-------MODELLO SALVATO-------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.357
+Training acc is 46.9138%
+One test epoch is over
+Validation acc is 49.8605%
+Epoch 2 - Validation Loss: 1.3250791119204628
+-------MODELLO SALVATO-------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.273
+Training acc is 50.8997%
+One test epoch is over
+Validation acc is 54.5328%
+Epoch 3 - Validation Loss: 1.20086489783393
+-------MODELLO SALVATO-------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.208
+Training acc is 53.7750%
+One test epoch is over
+Validation acc is 55.4393%
+Epoch 4 - Validation Loss: 1.1776499970091714
+-------MODELLO SALVATO-------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.151
+Training acc is 56.1124%
+One test epoch is over
+Validation acc is 56.4854%
+Epoch 5 - Validation Loss: 1.161983730726772
+-------MODELLO SALVATO-------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.108
+Training acc is 58.0009%
+One test epoch is over
+Validation acc is 58.0195%
+Epoch 6 - Validation Loss: 1.1200422154532539
+-------MODELLO SALVATO-------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.067
+Training acc is 59.2779%
+One test epoch is over
+Validation acc is 59.3096%
+Epoch 7 - Validation Loss: 1.1005991223785612
+-------MODELLO SALVATO-------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.025
+Training acc is 61.5301%
+One test epoch is over
+Validation acc is 60.1116%
+Epoch 8 - Validation Loss: 1.0760444935825135
+-------MODELLO SALVATO-------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.987
+Training acc is 62.8846%
+One test epoch is over
+Validation acc is 61.9596%
+Epoch 9 - Validation Loss: 1.0298507428831525
+-------MODELLO SALVATO-------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.963
+Training acc is 63.9913%
+One test epoch is over
+Validation acc is 60.5649%
+Epoch 10 - Validation Loss: 1.0468235908283128
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.923
+Training acc is 65.5044%
+One test epoch is over
+Validation acc is 60.0418%
+Epoch 11 - Validation Loss: 1.05090761118465
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.917
+Training acc is 65.3380%
+One test epoch is over
+Validation acc is 63.7727%
+Epoch 12 - Validation Loss: 0.9919390883710649
+-------MODELLO SALVATO-------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.865
+Training acc is 67.9347%
+One test epoch is over
+Validation acc is 63.0056%
+Epoch 13 - Validation Loss: 1.0032382153802448
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.837
+Training acc is 68.7241%
+One test epoch is over
+Validation acc is 64.4700%
+Epoch 14 - Validation Loss: 1.0423876658082007
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.802
+Training acc is 69.9122%
+One test epoch is over
+Validation acc is 64.0865%
+Epoch 15 - Validation Loss: 1.0072337460186747
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.770
+Training acc is 71.3749%
+One test epoch is over
+Validation acc is 63.6332%
+Epoch 16 - Validation Loss: 1.003372689916028
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.744
+Training acc is 72.4043%
+One test epoch is over
+Validation acc is 64.1213%
+Epoch 17 - Validation Loss: 1.005044045050939
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.698
+Training acc is 74.3237%
+One test epoch is over
+Validation acc is 62.0990%
+Epoch 18 - Validation Loss: 1.066434819996357
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.680
+Training acc is 75.0474%
+One test epoch is over
+Validation acc is 65.0279%
+Epoch 19 - Validation Loss: 1.0112336003945934
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.647
+Training acc is 76.1619%
+One test epoch is over
+Validation acc is 65.9693%
+Epoch 20 - Validation Loss: 1.0722618176705307
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.583
+Training acc is 78.4645%
+One test epoch is over
+Validation acc is 65.5160%
+Epoch 21 - Validation Loss: 1.0779390775495106
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.565
+Training acc is 78.8127%
+One test epoch is over
+Validation acc is 61.5063%
+Epoch 22 - Validation Loss: 1.3225694419609175
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.544
+Training acc is 80.0356%
+One test epoch is over
+Validation acc is 65.4114%
+Epoch 23 - Validation Loss: 1.1294732987880707
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.497
+Training acc is 81.9279%
+One test epoch is over
+Validation acc is 61.0530%
+Epoch 24 - Validation Loss: 1.2819486995538076
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.511
+Training acc is 81.5874%
+One test epoch is over
+Validation acc is 62.1339%
+Epoch 25 - Validation Loss: 1.180041288004981
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.460
+Training acc is 82.7096%
+One test epoch is over
+Validation acc is 64.3305%
+Epoch 26 - Validation Loss: 1.167134774890211
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.417
+Training acc is 85.2405%
+One test epoch is over
+Validation acc is 61.8201%
+Epoch 27 - Validation Loss: 1.4357905538545714
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.414
+Training acc is 84.9309%
+One test epoch is over
+Validation acc is 64.8187%
+Epoch 28 - Validation Loss: 1.2680951840347714
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.354
+Training acc is 87.0284%
+One test epoch is over
+Validation acc is 64.5049%
+Epoch 29 - Validation Loss: 1.4264474544674157
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.343
+Training acc is 87.5817%
+One test epoch is over
+Validation acc is 65.1674%
+Epoch 30 - Validation Loss: 1.254235182950894
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.322
+Training acc is 88.4215%
+One test epoch is over
+Validation acc is 63.5286%
+Epoch 31 - Validation Loss: 1.5859675920671887
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.330
+Training acc is 88.3131%
+One test epoch is over
+Validation acc is 65.7950%
+Epoch 32 - Validation Loss: 1.4430868139697446
+---- EARLY STOPPING -----
+---> Best epoch: 12
+11130.8s	268	              precision    recall  f1-score   support
+11130.8s	269	
+11130.8s	270	           0     0.7789    0.7445    0.7613       317
+11130.8s	271	           1     0.4942    0.5183    0.5060       409
+11130.8s	272	           2     0.6279    0.5414    0.5814       399
+11130.8s	273	           3     0.6320    0.6129    0.6223       496
+11130.8s	274	           4     0.5184    0.5549    0.5360       483
+11130.8s	275	           5     0.6333    0.4419    0.5205        43
+11130.8s	276	           6     0.8272    0.8766    0.8512       721
+11130.8s	277	
+11130.8s	278	    accuracy                         0.6579      2868
+11130.8s	279	   macro avg     0.6446    0.6129    0.6255      2868
+11130.8s	280	weighted avg     0.6580    0.6579    0.6569      2868
+11130.8s	281	
+11202.8s	282	              precision    recall  f1-score   support
+11202.8s	283	
+11202.8s	284	         0.0     0.7975    0.7629    0.7798       831
+11202.8s	285	         1.0     0.4667    0.5068    0.4860      1024
+11202.8s	286	         2.0     0.5668    0.5710    0.5689       958
+11202.8s	287	         3.0     0.6045    0.5604    0.5816      1233
+11202.8s	288	         4.0     0.5046    0.5309    0.5174      1247
+11202.8s	289	         5.0     0.6154    0.4324    0.5079       111
+11202.8s	290	         6.0     0.8567    0.8563    0.8565      1774
+11202.8s	291	
+11202.8s	292	    accuracy                         0.6436      7178
+11202.8s	293	   macro avg     0.6303    0.6030    0.6140      7178
+11202.8s	294	weighted avg     0.6473    0.6436    0.6449      7178 
+
+
+# 32;0.0001
+6.0s	0	Caricato modello Vanilla!
+361.6s	1	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 2.012
+361.6s	2	Training acc is 24.2251%
+379.5s	3	One test epoch is over
+379.5s	4	Validation acc is 32.3919%
+379.5s	5	Epoch 0 - Validation Loss: 1.6396104521221584
+385.4s	6	-------MODELLO SALVATO-------
+662.7s	7	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.569
+662.7s	8	Training acc is 37.9552%
+676.3s	9	One test epoch is over
+676.3s	10	Validation acc is 42.7476%
+676.3s	11	Epoch 1 - Validation Loss: 1.4977563513649834
+685.8s	12	-------MODELLO SALVATO-------
+26.0s	13	Caricato modello Vanilla!
+361.6s	14	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 2.012
+361.6s	15	Training acc is 24.2251%
+379.5s	16	One test epoch is over
+379.5s	17	Validation acc is 32.3919%
+379.5s	18	Epoch 0 - Validation Loss: 1.6396104521221584
+385.4s	19	-------MODELLO SALVATO-------
+662.7s	20	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.569
+662.7s	21	Training acc is 37.9552%
+676.3s	22	One test epoch is over
+676.3s	23	Validation acc is 42.7476%
+676.3s	24	Epoch 1 - Validation Loss: 1.4977563513649834
+685.8s	25	-------MODELLO SALVATO-------
+26.0s	26	Caricato modello Vanilla!
+361.6s	27	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 2.012
+361.6s	28	Training acc is 24.2251%
+379.5s	29	One test epoch is over
+379.5s	30	Validation acc is 32.3919%
+379.5s	31	Epoch 0 - Validation Loss: 1.6396104521221584
+385.4s	32	-------MODELLO SALVATO-------
+662.7s	33	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.569
+662.7s	34	Training acc is 37.9552%
+676.3s	35	One test epoch is over
+676.3s	36	Validation acc is 42.7476%
+676.3s	37	Epoch 1 - Validation Loss: 1.4977563513649834
+685.8s	38	-------MODELLO SALVATO-------
+963.2s	39	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.396
+963.2s	40	Training acc is 45.6445%
+976.5s	41	One test epoch is over
+976.5s	42	Validation acc is 50.6276%
+976.5s	43	Epoch 2 - Validation Loss: 1.280121205912696
+986.0s	44	-------MODELLO SALVATO-------
+1265.2s	45	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.285
+1265.2s	46	Training acc is 50.1954%
+1278.0s	47	One test epoch is over
+1278.0s	48	Validation acc is 56.0669%
+1278.0s	49	Epoch 3 - Validation Loss: 1.1701009068224164
+1288.3s	50	-------MODELLO SALVATO-------
+1566.5s	51	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.220
+1566.5s	52	Training acc is 53.3145%
+1579.6s	53	One test epoch is over
+1579.6s	54	Validation acc is 52.9986%
+1579.6s	55	Epoch 4 - Validation Loss: 1.2326819545692869
+1857.5s	56	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.169
+1857.5s	57	Training acc is 55.2030%
+1870.3s	58	One test epoch is over
+1870.3s	59	Validation acc is 56.8340%
+1870.3s	60	Epoch 5 - Validation Loss: 1.1313332458337149
+1879.9s	61	-------MODELLO SALVATO-------
+2159.4s	62	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.120
+2159.4s	63	Training acc is 57.3236%
+2172.7s	64	One test epoch is over
+2172.7s	65	Validation acc is 58.8563%
+2172.7s	66	Epoch 6 - Validation Loss: 1.119230435291926
+2182.6s	67	-------MODELLO SALVATO-------
+2459.6s	68	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.079
+2459.6s	69	Training acc is 59.1734%
+2472.6s	70	One test epoch is over
+2472.6s	71	Validation acc is 56.5900%
+2472.6s	72	Epoch 7 - Validation Loss: 1.166567454735438
+2751.3s	73	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.040
+2751.3s	74	Training acc is 61.0000%
+2764.6s	75	One test epoch is over
+2764.6s	76	Validation acc is 61.0181%
+2764.6s	77	Epoch 8 - Validation Loss: 1.0923828972710503
+2772.9s	78	-------MODELLO SALVATO-------
+3051.6s	79	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 1.005
+3051.6s	80	Training acc is 61.8436%
+3064.4s	81	One test epoch is over
+3064.4s	82	Validation acc is 60.7392%
+3064.4s	83	Epoch 9 - Validation Loss: 1.0603417542245652
+3072.6s	84	-------MODELLO SALVATO-------
+3352.9s	85	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.966
+3352.9s	86	Training acc is 63.6276%
+3366.3s	87	One test epoch is over
+3366.3s	88	Validation acc is 60.7741%
+3366.3s	89	Epoch 10 - Validation Loss: 1.0736651009983487
+3647.5s	90	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.939
+3647.5s	91	Training acc is 65.0207%
+3660.7s	92	One test epoch is over
+3660.7s	93	Validation acc is 61.4714%
+3660.7s	94	Epoch 11 - Validation Loss: 1.0210332175095875
+3669.5s	95	-------MODELLO SALVATO-------
+3949.2s	96	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.903
+3949.2s	97	Training acc is 66.0539%
+3962.4s	98	One test epoch is over
+3962.4s	99	Validation acc is 63.2845%
+3962.4s	100	Epoch 12 - Validation Loss: 0.9896936701403724
+3971.0s	101	-------MODELLO SALVATO-------
+4250.9s	102	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.865
+4250.9s	103	Training acc is 67.7760%
+4264.1s	104	One test epoch is over
+4264.1s	105	Validation acc is 61.6109%
+4264.1s	106	Epoch 13 - Validation Loss: 1.0305946661366356
+4543.1s	107	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.840
+4543.1s	108	Training acc is 68.7357%
+4556.3s	109	One test epoch is over
+4556.3s	110	Validation acc is 61.8898%
+4556.3s	111	Epoch 14 - Validation Loss: 1.0379053513209024
+4836.0s	112	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.792
+4836.0s	113	Training acc is 70.6397%
+4849.1s	114	One test epoch is over
+4849.1s	115	Validation acc is 61.1576%
+4849.1s	116	Epoch 15 - Validation Loss: 1.0294197426901923
+5127.2s	117	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.763
+5127.2s	118	Training acc is 71.7697%
+5140.1s	119	One test epoch is over
+5140.1s	120	Validation acc is 63.3891%
+5140.1s	121	Epoch 16 - Validation Loss: 0.9770131402545505
+5150.3s	122	-------MODELLO SALVATO-------
+5429.0s	123	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.723
+5429.0s	124	Training acc is 73.0661%
+5442.4s	125	One test epoch is over
+5442.4s	126	Validation acc is 62.2036%
+5442.4s	127	Epoch 17 - Validation Loss: 1.0095043122768401
+5721.4s	128	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.676
+5721.4s	129	Training acc is 75.2564%
+5734.3s	130	One test epoch is over
+5734.3s	131	Validation acc is 63.5983%
+5734.3s	132	Epoch 18 - Validation Loss: 0.9849239230155945
+6012.3s	133	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.638
+6012.3s	134	Training acc is 76.5373%
+6025.0s	135	One test epoch is over
+6025.0s	136	Validation acc is 64.2608%
+6025.0s	137	Epoch 19 - Validation Loss: 1.0090937005148994
+6302.3s	138	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.592
+6302.3s	139	Training acc is 77.9652%
+6315.1s	140	One test epoch is over
+6315.1s	141	Validation acc is 64.8884%
+6315.1s	142	Epoch 20 - Validation Loss: 0.9833163165383869
+6592.6s	143	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.550
+6592.6s	144	Training acc is 79.9427%
+6605.7s	145	One test epoch is over
+6605.7s	146	Validation acc is 62.3082%
+6605.7s	147	Epoch 21 - Validation Loss: 1.0748784412940344
+6882.9s	148	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.510
+6882.9s	149	Training acc is 81.1695%
+6895.8s	150	One test epoch is over
+6895.8s	151	Validation acc is 61.4365%
+6895.8s	152	Epoch 22 - Validation Loss: 1.1672117127312553
+7173.1s	153	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.468
+7173.1s	154	Training acc is 83.0657%
+7186.0s	155	One test epoch is over
+7186.0s	156	Validation acc is 64.2259%
+7186.0s	157	Epoch 23 - Validation Loss: 1.071961173084047
+7464.6s	158	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.435
+7464.6s	159	Training acc is 84.4511%
+7477.8s	160	One test epoch is over
+7477.8s	161	Validation acc is 63.4937%
+7477.8s	162	Epoch 24 - Validation Loss: 1.143771469593048
+7755.1s	163	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.398
+7755.1s	164	Training acc is 85.8171%
+7768.0s	165	One test epoch is over
+7768.0s	166	Validation acc is 64.6792%
+7768.0s	167	Epoch 25 - Validation Loss: 1.2018660399648877
+8044.9s	168	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.359
+8044.9s	169	Training acc is 87.5740%
+8057.6s	170	One test epoch is over
+8057.6s	171	Validation acc is 63.5635%
+8057.6s	172	Epoch 26 - Validation Loss: 1.264934848414527
+8335.4s	173	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.335
+8335.4s	174	Training acc is 88.0887%
+8348.2s	175	One test epoch is over
+8348.2s	176	Validation acc is 64.7141%
+8348.2s	177	Epoch 27 - Validation Loss: 1.22597380677859
+8627.0s	178	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.310
+8627.0s	179	Training acc is 89.0407%
+8641.7s	180	One test epoch is over
+8641.7s	181	Validation acc is 64.5746%
+8641.7s	182	Epoch 28 - Validation Loss: 1.1823323991563586
+8919.1s	183	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.282
+8919.1s	184	Training acc is 89.9810%
+8932.2s	185	One test epoch is over
+8932.2s	186	Validation acc is 64.4700%
+8932.2s	187	Epoch 29 - Validation Loss: 1.3569672736856673
+9210.0s	188	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.264
+9210.0s	189	Training acc is 90.6853%
+9223.2s	190	One test epoch is over
+9223.2s	191	Validation acc is 64.6444%
+9223.2s	192	Epoch 30 - Validation Loss: 1.324336306254069
+9500.2s	193	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.241
+9500.2s	194	Training acc is 91.6683%
+9513.0s	195	One test epoch is over
+9513.0s	196	Validation acc is 63.9470%
+9513.0s	197	Epoch 31 - Validation Loss: 1.4334297941790686
+9790.6s	198	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.221
+9790.6s	199	Training acc is 92.2139%
+9803.5s	200	One test epoch is over
+9803.5s	201	Validation acc is 63.6681%
+9803.5s	202	Epoch 32 - Validation Loss: 1.5001756310462953
+10081.6s	203	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.208
+10081.6s	204	Training acc is 92.8524%
+10094.8s	205	One test epoch is over
+10094.8s	206	Validation acc is 63.8075%
+10094.8s	207	Epoch 33 - Validation Loss: 1.4070612165662977
+10372.6s	208	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.195
+10372.7s	209	Training acc is 93.2820%
+10385.5s	210	One test epoch is over
+10385.5s	211	Validation acc is 63.3891%
+10385.5s	212	Epoch 34 - Validation Loss: 1.6165289375517102
+10663.2s	213	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.188
+10663.2s	214	Training acc is 93.6303%
+10676.2s	215	One test epoch is over
+10676.2s	216	Validation acc is 65.4114%
+10676.2s	217	Epoch 35 - Validation Loss: 1.4994219882620705
+10955.1s	218	||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.172
+10955.1s	219	Training acc is 94.1837%
+10967.8s	220	One test epoch is over
+10967.8s	221	Validation acc is 62.9358%
+10967.8s	222	Epoch 36 - Validation Loss: 1.6429898407724168
+10967.8s	223	---- EARLY STOPPING -----
+10967.8s	224	---> Best epoch: 16
+10980.8s	225	One test epoch is over
+10980.8s	226	Validation acc is 62.9358%
+10980.8s	227	              precision    recall  f1-score   support
+10980.8s	228	
+10980.8s	229	           0     0.8159    0.7129    0.7609       317
+10980.8s	230	           1     0.4682    0.5403    0.5017       409
+10980.8s	231	           2     0.4753    0.6040    0.5320       399
+10980.8s	232	           3     0.5882    0.5847    0.5865       496
+10980.8s	233	           4     0.5627    0.3437    0.4267       483
+10980.8s	234	           5     0.5909    0.3023    0.4000        43
+10980.8s	235	           6     0.8080    0.8988    0.8510       721
+10980.8s	236	
+10980.8s	237	    accuracy                         0.6294      2868
+10980.8s	238	   macro avg     0.6156    0.5695    0.5798      2868
+10980.8s	239	weighted avg     0.6316    0.6294    0.6229      2868
+10980.8s	240	
+11046.0s	241	              precision    recall  f1-score   support
+11046.0s	242	
+11046.0s	243	         0.0     0.8252    0.7329    0.7763       831
+11046.0s	244	         1.0     0.4401    0.5166    0.4753      1024
+11046.0s	245	         2.0     0.4518    0.6357    0.5282       958
+11046.0s	246	         3.0     0.5704    0.5653    0.5678      1233
+11046.0s	247	         4.0     0.5638    0.3368    0.4217      1247
+11046.0s	248	         5.0     0.5424    0.2883    0.3765       111
+11046.0s	249	         6.0     0.8251    0.8670    0.8455      1774
+11046.0s	250	
+11046.0s	251	    accuracy                         0.6177      7178
+11046.0s	252	   macro avg     0.6027    0.5632    0.5702      7178
+11046.0s	253	weighted avg     0.6268    0.6177    0.6138      7178
+
+
+
+# 64;0.0001
+8.8s	1	Caricato modello Vanilla!
+422.3s	2	|||||||||||||||||||||||||Train loss is 2.111
+422.3s	3	Training acc is 22.9325%
+443.6s	4	One test epoch is over
+443.6s	5	Validation acc is 25.0000%
+443.6s	6	Epoch 0 - Validation Loss: 1.794969752099779
+449.9s	7	-------MODELLO SALVATO-------
+724.2s	8	|||||||||||||||||||||||||Train loss is 1.787
+724.2s	9	Training acc is 25.8465%
+737.8s	10	One test epoch is over
+737.8s	11	Validation acc is 34.2399%
+737.8s	12	Epoch 1 - Validation Loss: 1.6141455544365777
+748.2s	13	-------MODELLO SALVATO-------
+1018.5s	14	|||||||||||||||||||||||||Train loss is 1.569
+1018.5s	15	Training acc is 38.4196%
+1031.9s	16	One test epoch is over
+1031.9s	17	Validation acc is 43.1660%
+1031.9s	18	Epoch 2 - Validation Loss: 1.4669559319814047
+1038.6s	19	-------MODELLO SALVATO-------
+1316.1s	20	|||||||||||||||||||||||||Train loss is 1.403
+1316.1s	21	Training acc is 45.4201%
+1329.4s	22	One test epoch is over
+1329.4s	23	Validation acc is 46.2343%
+1329.4s	24	Epoch 3 - Validation Loss: 1.379803458849589
+1336.5s	25	-------MODELLO SALVATO-------
+1610.9s	26	|||||||||||||||||||||||||Train loss is 1.305
+1610.9s	27	Training acc is 49.5259%
+1624.3s	28	One test epoch is over
+1624.3s	29	Validation acc is 51.5342%
+1624.3s	30	Epoch 4 - Validation Loss: 1.2963812033335367
+1631.4s	31	-------MODELLO SALVATO-------
+1906.9s	32	|||||||||||||||||||||||||Train loss is 1.230
+1906.9s	33	Training acc is 52.5405%
+1920.2s	34	One test epoch is over
+1920.2s	35	Validation acc is 55.5439%
+1920.2s	36	Epoch 5 - Validation Loss: 1.2234254995981853
+1926.9s	37	-------MODELLO SALVATO-------
+2200.1s	38	|||||||||||||||||||||||||Train loss is 1.179
+2200.1s	39	Training acc is 54.4832%
+2213.3s	40	One test epoch is over
+2213.3s	41	Validation acc is 54.0098%
+2213.3s	42	Epoch 6 - Validation Loss: 1.2203701496124268
+2220.1s	43	-------MODELLO SALVATO-------
+2491.8s	44	|||||||||||||||||||||||||Train loss is 1.132
+2491.8s	45	Training acc is 56.6503%
+2505.1s	46	One test epoch is over
+2505.1s	47	Validation acc is 55.7880%
+2505.1s	48	Epoch 7 - Validation Loss: 1.2046310318840874
+2512.0s	49	-------MODELLO SALVATO-------
+2790.0s	50	|||||||||||||||||||||||||Train loss is 1.088
+2790.0s	51	Training acc is 58.6858%
+2803.2s	52	One test epoch is over
+2803.2s	53	Validation acc is 57.6709%
+2803.2s	54	Epoch 8 - Validation Loss: 1.113904971546597
+2809.8s	55	-------MODELLO SALVATO-------
+3083.7s	56	|||||||||||||||||||||||||Train loss is 1.050
+3083.7s	57	Training acc is 60.0093%
+3097.0s	58	One test epoch is over
+3097.0s	59	Validation acc is 61.4365%
+3097.0s	60	Epoch 9 - Validation Loss: 1.1014379289415148
+3103.8s	61	-------MODELLO SALVATO-------
+3378.0s	62	|||||||||||||||||||||||||Train loss is 1.012
+3378.0s	63	Training acc is 61.7430%
+3391.7s	64	One test epoch is over
+3391.7s	65	Validation acc is 57.5314%
+3391.7s	66	Epoch 10 - Validation Loss: 1.1639733791351319
+3662.5s	67	|||||||||||||||||||||||||Train loss is 0.976
+3662.5s	68	Training acc is 63.1322%
+3676.1s	69	One test epoch is over
+3676.1s	70	Validation acc is 59.9372%
+3676.1s	71	Epoch 11 - Validation Loss: 1.110035154554579
+3953.4s	72	|||||||||||||||||||||||||Train loss is 0.946
+3953.4s	73	Training acc is 64.4248%
+3967.0s	74	One test epoch is over
+3967.0s	75	Validation acc is 57.9149%
+3967.0s	76	Epoch 12 - Validation Loss: 1.134047598308987
+4243.4s	77	|||||||||||||||||||||||||Train loss is 0.910
+4243.4s	78	Training acc is 65.9882%
+4256.7s	79	One test epoch is over
+4256.7s	80	Validation acc is 59.0307%
+4256.7s	81	Epoch 13 - Validation Loss: 1.0951074878374736
+4263.2s	82	-------MODELLO SALVATO-------
+4542.3s	83	|||||||||||||||||||||||||Train loss is 0.879
+4542.3s	84	Training acc is 67.2149%
+4556.0s	85	One test epoch is over
+4556.0s	86	Validation acc is 58.3682%
+4556.0s	87	Epoch 14 - Validation Loss: 1.1130122582117716
+4829.0s	88	|||||||||||||||||||||||||Train loss is 0.847
+4829.0s	89	Training acc is 68.3023%
+4842.5s	90	One test epoch is over
+4842.5s	91	Validation acc is 60.7392%
+4842.5s	92	Epoch 15 - Validation Loss: 1.071513459417555
+4849.3s	93	-------MODELLO SALVATO-------
+5126.0s	94	|||||||||||||||||||||||||Train loss is 0.817
+5126.0s	95	Training acc is 69.8193%
+5140.0s	96	One test epoch is over
+5140.0s	97	Validation acc is 60.3208%
+5140.0s	98	Epoch 16 - Validation Loss: 1.0749381224314372
+5413.5s	99	|||||||||||||||||||||||||Train loss is 0.773
+5413.5s	100	Training acc is 71.1737%
+5426.9s	101	One test epoch is over
+5426.9s	102	Validation acc is 61.3668%
+5426.9s	103	Epoch 17 - Validation Loss: 1.0632923867967394
+5432.9s	104	-------MODELLO SALVATO-------
+5699.2s	105	|||||||||||||||||||||||||Train loss is 0.746
+5699.2s	106	Training acc is 72.0909%
+5712.6s	107	One test epoch is over
+5712.6s	108	Validation acc is 62.3431%
+5712.6s	109	Epoch 18 - Validation Loss: 1.0235637969440885
+5719.5s	110	-------MODELLO SALVATO-------
+5994.6s	111	|||||||||||||||||||||||||Train loss is 0.697
+5994.6s	112	Training acc is 74.1728%
+6008.2s	113	One test epoch is over
+6008.2s	114	Validation acc is 61.6457%
+6008.2s	115	Epoch 19 - Validation Loss: 1.030574341615041
+6283.7s	116	|||||||||||||||||||||||||Train loss is 0.657
+6283.7s	117	Training acc is 75.9259%
+6297.7s	118	One test epoch is over
+6297.7s	119	Validation acc is 62.4477%
+6297.7s	120	Epoch 20 - Validation Loss: 1.0196476485994128
+6304.4s	121	-------MODELLO SALVATO-------
+6575.1s	122	|||||||||||||||||||||||||Train loss is 0.611
+6575.1s	123	Training acc is 77.4041%
+6588.4s	124	One test epoch is over
+6588.4s	125	Validation acc is 61.3668%
+6588.4s	126	Epoch 21 - Validation Loss: 1.048989897304111
+6873.4s	127	|||||||||||||||||||||||||Train loss is 0.571
+6873.4s	128	Training acc is 78.8979%
+6886.5s	129	One test epoch is over
+6886.5s	130	Validation acc is 63.4589%
+6886.5s	131	Epoch 22 - Validation Loss: 1.0102558453877768
+6893.3s	132	-------MODELLO SALVATO-------
+7168.5s	133	|||||||||||||||||||||||||Train loss is 0.537
+7168.5s	134	Training acc is 80.4884%
+7181.9s	135	One test epoch is over
+7181.9s	136	Validation acc is 63.9121%
+7181.9s	137	Epoch 23 - Validation Loss: 0.9905314988560147
+7188.7s	138	-------MODELLO SALVATO-------
+7463.2s	139	|||||||||||||||||||||||||Train loss is 0.501
+7463.2s	140	Training acc is 81.6764%
+7476.5s	141	One test epoch is over
+7476.5s	142	Validation acc is 60.8787%
+7476.5s	143	Epoch 24 - Validation Loss: 1.070118878947364
+7750.8s	144	|||||||||||||||||||||||||Train loss is 0.448
+7750.8s	145	Training acc is 83.9093%
+7764.2s	146	One test epoch is over
+7764.2s	147	Validation acc is 62.4826%
+7764.2s	148	Epoch 25 - Validation Loss: 1.0542573624187046
+8035.0s	149	|||||||||||||||||||||||||Train loss is 0.412
+8035.0s	150	Training acc is 85.3063%
+8052.1s	151	One test epoch is over
+8052.1s	152	Validation acc is 56.5551%
+8052.1s	153	Epoch 26 - Validation Loss: 1.2335200733608669
+8339.3s	154	|||||||||||||||||||||||||Train loss is 0.381
+8339.3s	155	Training acc is 86.4053%
+8352.7s	156	One test epoch is over
+8352.7s	157	Validation acc is 63.9121%
+8352.7s	158	Epoch 27 - Validation Loss: 1.0028237409061855
+8633.4s	159	|||||||||||||||||||||||||Train loss is 0.354
+8633.4s	160	Training acc is 87.3883%
+8646.7s	161	One test epoch is over
+8646.7s	162	Validation acc is 60.0070%
+8646.7s	163	Epoch 28 - Validation Loss: 1.177337352434794
+8920.9s	164	|||||||||||||||||||||||||Train loss is 0.313
+8920.9s	165	Training acc is 89.0291%
+8934.2s	166	One test epoch is over
+8934.2s	167	Validation acc is 62.1339%
+8934.2s	168	Epoch 29 - Validation Loss: 1.0805107090208266
+9201.4s	169	|||||||||||||||||||||||||Train loss is 0.290
+9201.4s	170	Training acc is 89.7063%
+9214.7s	171	One test epoch is over
+9214.7s	172	Validation acc is 64.2957%
+9214.7s	173	Epoch 30 - Validation Loss: 1.0452887336413066
+9481.3s	174	|||||||||||||||||||||||||Train loss is 0.276
+9481.3s	175	Training acc is 90.5035%
+9494.7s	176	One test epoch is over
+9494.7s	177	Validation acc is 64.4351%
+9494.7s	178	Epoch 31 - Validation Loss: 1.0586224913597106
+9761.1s	179	|||||||||||||||||||||||||Train loss is 0.246
+9761.1s	180	Training acc is 91.3974%
+9774.7s	181	One test epoch is over
+9774.7s	182	Validation acc is 62.5174%
+9774.7s	183	Epoch 32 - Validation Loss: 1.115171245733897
+10045.8s	184	|||||||||||||||||||||||||Train loss is 0.236
+10045.8s	185	Training acc is 91.9276%
+10059.2s	186	One test epoch is over
+10059.2s	187	Validation acc is 62.6918%
+10059.2s	188	Epoch 33 - Validation Loss: 1.099375401602851
+10334.5s	189	|||||||||||||||||||||||||Train loss is 0.225
+10334.5s	190	Training acc is 92.3919%
+10348.0s	191	One test epoch is over
+10348.0s	192	Validation acc is 61.9596%
+10348.0s	193	Epoch 34 - Validation Loss: 1.1155239343643188
+10621.1s	194	|||||||||||||||||||||||||Train loss is 0.197
+10621.1s	195	Training acc is 93.2433%
+10634.6s	196	One test epoch is over
+10634.6s	197	Validation acc is 61.0879%
+10634.6s	198	Epoch 35 - Validation Loss: 1.2561561041408116
+10909.7s	199	|||||||||||||||||||||||||Train loss is 0.197
+10909.7s	200	Training acc is 93.1814%
+10923.4s	201	One test epoch is over
+10923.4s	202	Validation acc is 62.1688%
+10923.4s	203	Epoch 36 - Validation Loss: 1.1459146830770703
+11198.2s	204	|||||||||||||||||||||||||Train loss is 0.180
+11198.2s	205	Training acc is 93.8779%
+11213.7s	206	One test epoch is over
+11213.7s	207	Validation acc is 63.3891%
+11213.7s	208	Epoch 37 - Validation Loss: 1.2567689418792725
+11489.7s	209	|||||||||||||||||||||||||Train loss is 0.173
+11489.7s	210	Training acc is 94.2340%
+11503.1s	211	One test epoch is over
+11503.1s	212	Validation acc is 62.4826%
+11503.1s	213	Epoch 38 - Validation Loss: 1.2031756136152478
+11768.0s	214	|||||||||||||||||||||||||Train loss is 0.158
+11768.0s	215	Training acc is 94.5513%
+11781.2s	216	One test epoch is over
+11781.2s	217	Validation acc is 63.7378%
+11781.2s	218	Epoch 39 - Validation Loss: 1.1545352405971951
+12052.7s	219	|||||||||||||||||||||||||Train loss is 0.154
+12052.7s	220	Training acc is 94.9460%
+12065.9s	221	One test epoch is over
+12065.9s	222	Validation acc is 62.7266%
+12065.9s	223	Epoch 40 - Validation Loss: 1.1754966073566013
+12331.9s	224	|||||||||||||||||||||||||Train loss is 0.145
+12331.9s	225	Training acc is 95.3136%
+12345.3s	226	One test epoch is over
+12345.3s	227	Validation acc is 63.3194%
+12345.3s	228	Epoch 41 - Validation Loss: 1.114414143562317
+12615.8s	229	|||||||||||||||||||||||||Train loss is 0.134
+12615.8s	230	Training acc is 95.6929%
+12629.2s	231	One test epoch is over
+12629.2s	232	Validation acc is 61.7503%
+12629.2s	233	Epoch 42 - Validation Loss: 1.2124290294117397
+12900.4s	234	|||||||||||||||||||||||||Train loss is 0.136
+12900.4s	235	Training acc is 95.5071%
+12913.6s	236	One test epoch is over
+12913.6s	237	Validation acc is 62.4128%
+12913.6s	238	Epoch 43 - Validation Loss: 1.1818055046929254
+12913.6s	239	---- EARLY STOPPING -----
+12913.6s	240	---> Best epoch: 23
+12927.1s	241	One test epoch is over
+12927.1s	242	Validation acc is 62.4128%
+12927.1s	243	              precision    recall  f1-score   support
+12927.1s	244	
+12927.1s	245	           0     0.8081    0.6909    0.7449       317
+12927.1s	246	           1     0.4724    0.4817    0.4770       409
+12927.1s	247	           2     0.5791    0.4035    0.4756       399
+12927.1s	248	           3     0.5462    0.6552    0.5958       496
+12927.1s	249	           4     0.4789    0.6335    0.5455       483
+12927.1s	250	           5     0.6522    0.3488    0.4545        43
+12927.1s	251	           6     0.8791    0.7864    0.8302       721
+12927.1s	252	
+12927.1s	253	    accuracy                         0.6241      2868
+12927.1s	254	   macro avg     0.6309    0.5714    0.5891      2868
+12927.1s	255	weighted avg     0.6431    0.6241    0.6269      2868

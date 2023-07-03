@@ -1,0 +1,173 @@
+42.8s	1	/kaggle/input/model-2/checkpoint_0.9624623349971242.pth caricato!
+546.1s	2	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.883
+546.1s	3	Training acc is 66.9595%
+578.1s	4	One test epoch is over
+578.1s	5	Validation acc is 63.7378%
+578.1s	6	Epoch 0 - Validation Loss: 0.9890212448106872
+584.3s	7	-------MODELLO SALVATO-------
+893.4s	8	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.854
+893.4s	9	Training acc is 68.3604%
+907.7s	10	One test epoch is over
+907.7s	11	Validation acc is 63.2497%
+907.7s	12	Epoch 1 - Validation Loss: 1.031139463517401
+1217.0s	13	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.819
+1217.0s	14	Training acc is 69.2852%
+1231.3s	15	One test epoch is over
+1231.3s	16	Validation acc is 63.2497%
+1231.3s	17	Epoch 2 - Validation Loss: 1.0005639329552651
+1542.3s	18	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.787
+1542.3s	19	Training acc is 70.7171%
+1555.8s	20	One test epoch is over
+1555.8s	21	Validation acc is 62.3082%
+1555.8s	22	Epoch 3 - Validation Loss: 1.0643597283297115
+1864.1s	23	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.776
+1864.1s	24	Training acc is 70.8332%
+1878.0s	25	One test epoch is over
+1878.0s	26	Validation acc is 64.0167%
+1878.0s	27	Epoch 4 - Validation Loss: 0.9906895177231895
+2186.1s	28	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.710
+2186.1s	29	Training acc is 73.6659%
+2199.5s	30	One test epoch is over
+2199.5s	31	Validation acc is 61.6109%
+2199.5s	32	Epoch 5 - Validation Loss: 1.051676400999228
+2507.3s	33	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.677
+2507.3s	34	Training acc is 75.0242%
+2521.2s	35	One test epoch is over
+2521.2s	36	Validation acc is 64.6444%
+2521.2s	37	Epoch 6 - Validation Loss: 0.9987494842873679
+2830.8s	38	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.648
+2830.8s	39	Training acc is 75.8639%
+2844.0s	40	One test epoch is over
+2844.0s	41	Validation acc is 65.0628%
+2844.0s	42	Epoch 7 - Validation Loss: 1.0276170992188984
+3151.7s	43	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.593
+3151.7s	44	Training acc is 77.8066%
+3165.1s	45	One test epoch is over
+3165.1s	46	Validation acc is 64.9930%
+3165.1s	47	Epoch 8 - Validation Loss: 1.091398799419403
+3472.4s	48	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.563
+3472.4s	49	Training acc is 79.2462%
+3485.9s	50	One test epoch is over
+3485.9s	51	Validation acc is 65.3766%
+3485.9s	52	Epoch 9 - Validation Loss: 1.068048610786597
+3796.3s	53	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.521
+3796.3s	54	Training acc is 80.8986%
+3810.0s	55	One test epoch is over
+3810.0s	56	Validation acc is 65.2371%
+3810.0s	57	Epoch 10 - Validation Loss: 1.1395437380505933
+4119.2s	58	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.488
+4119.2s	59	Training acc is 82.1988%
+4132.7s	60	One test epoch is over
+4132.7s	61	Validation acc is 62.1688%
+4132.7s	62	Epoch 11 - Validation Loss: 1.1710540134252774
+4440.8s	63	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.461
+4440.8s	64	Training acc is 83.1508%
+4454.8s	65	One test epoch is over
+4454.8s	66	Validation acc is 64.1213%
+4454.8s	67	Epoch 12 - Validation Loss: 1.1856534100241132
+4762.7s	68	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.439
+4762.7s	69	Training acc is 83.9828%
+4776.1s	70	One test epoch is over
+4776.1s	71	Validation acc is 63.1799%
+4776.1s	72	Epoch 13 - Validation Loss: 1.281427609672149
+5084.2s	73	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.412
+5084.2s	74	Training acc is 85.0470%
+5097.7s	75	One test epoch is over
+5097.7s	76	Validation acc is 64.9233%
+5097.7s	77	Epoch 14 - Validation Loss: 1.3024286046624183
+5407.3s	78	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.369
+5407.3s	79	Training acc is 87.0748%
+5421.1s	80	One test epoch is over
+5421.1s	81	Validation acc is 63.3194%
+5421.1s	82	Epoch 15 - Validation Loss: 1.6848130077951484
+5728.8s	83	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.458
+5728.8s	84	Training acc is 84.2692%
+5742.4s	85	One test epoch is over
+5742.4s	86	Validation acc is 64.0516%
+5742.4s	87	Epoch 16 - Validation Loss: 1.5839975125259824
+6049.5s	88	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.303
+6049.5s	89	Training acc is 89.7643%
+6062.7s	90	One test epoch is over
+6062.7s	91	Validation acc is 64.1213%
+6062.7s	92	Epoch 17 - Validation Loss: 1.410152808494038
+6371.9s	93	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.350
+6371.9s	94	Training acc is 87.4308%
+6385.3s	95	One test epoch is over
+6385.3s	96	Validation acc is 64.1213%
+6385.3s	97	Epoch 18 - Validation Loss: 1.562350641729103
+6693.7s	98	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.289
+6693.7s	99	Training acc is 89.6560%
+6706.7s	100	One test epoch is over
+6706.7s	101	Validation acc is 64.6095%
+6706.7s	102	Epoch 19 - Validation Loss: 1.5378106262120936
+7013.9s	103	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Train loss is 0.262
+7013.9s	104	Training acc is 90.4764%
+7027.1s	105	One test epoch is over
+7027.1s	106	Validation acc is 62.6220%
+7027.1s	107	Epoch 20 - Validation Loss: 1.6480688545438977
+7027.1s	108	---- EARLY STOPPING -----
+7027.1s	109	---> Best epoch: 0
+7040.9s	110	One test epoch is over
+7040.9s	111	Validation acc is 62.6220%
+7040.9s	112	              precision    recall  f1-score   support
+7040.9s	113	
+7040.9s	114	           0     0.7147    0.7350    0.7247       317
+7040.9s	115	           1     0.4175    0.6064    0.4945       409
+7040.9s	116	           2     0.5442    0.4787    0.5093       399
+7040.9s	117	           3     0.6305    0.5161    0.5676       496
+7040.9s	118	           4     0.5615    0.4534    0.5017       483
+7040.9s	119	           5     0.4474    0.3953    0.4198        43
+7040.9s	120	           6     0.8283    0.8766    0.8518       721
+7040.9s	121	
+7040.9s	122	    accuracy                         0.6262      2868
+7040.9s	123	   macro avg     0.5920    0.5802    0.5813      2868
+7040.9s	124	weighted avg     0.6328    0.6262    0.6246      2868
+7040.9s	125	
+7127.3s	126	              precision    recall  f1-score   support
+7127.3s	127	
+7127.3s	128	         0.0     0.7526    0.7762    0.7642       831
+7127.3s	129	         1.0     0.3940    0.5752    0.4676      1024
+7127.3s	130	         2.0     0.5705    0.5240    0.5462       958
+7127.3s	131	         3.0     0.6232    0.4923    0.5501      1233
+7127.3s	132	         4.0     0.5178    0.4210    0.4644      1247
+7127.3s	133	         5.0     0.4720    0.5315    0.5000       111
+7127.3s	134	         6.0     0.8352    0.8630    0.8489      1774
+7127.3s	135	
+7127.3s	136	    accuracy                         0.6211      7178
+7127.3s	137	   macro avg     0.5950    0.5976    0.5916      7178
+7127.3s	138	weighted avg     0.6302    0.6211    0.6208      7178
+7127.3s	139	
+7133.4s	140	Traceback (most recent call last):
+7133.4s	141	  File "<string>", line 1, in <module>
+7133.4s	142	  File "/opt/conda/lib/python3.10/site-packages/papermill/execute.py", line 128, in execute_notebook
+7133.4s	143	    raise_for_execution_errors(nb, output_path)
+7133.4s	144	  File "/opt/conda/lib/python3.10/site-packages/papermill/execute.py", line 232, in raise_for_execution_errors
+7133.4s	145	    raise error
+7133.4s	146	papermill.exceptions.PapermillExecutionError: 
+7133.4s	147	---------------------------------------------------------------------------
+7133.4s	148	Exception encountered at "In [15]":
+7133.4s	149	---------------------------------------------------------------------------
+7133.4s	150	NameError                                 Traceback (most recent call last)
+7133.4s	151	Cell In[15], line 2
+7133.4s	152	      1 labels = test_dataset.labels.values()
+7133.4s	153	----> 2 get_confusion_matrix(test_labels, test_predictions, labels)
+7133.4s	154	      3 print(test_dataset.labels)
+7133.4s	155	
+7133.4s	156	Cell In[14], line 9, in get_confusion_matrix(test_labels, test_predictions, labels)
+7133.4s	157	      5 mat = confusion_matrix(test_labels, test_predictions)
+7133.4s	158	      6 sns.heatmap(mat.T, square=True, annot=True, fmt='d', cbar=False,
+7133.4s	159	      7             xticklabels=labels,
+7133.4s	160	      8             yticklabels=labels)
+7133.4s	161	----> 9 plt.xlabel('true label')
+7133.4s	162	     10 plt.ylabel('predicted label');
+7133.4s	163	     11 plt.title(best_last_model if best_last_model else 'First Model')
+7133.4s	164	
+7133.4s	165	NameError: name 'plt' is not defined
+7133.4s	166	
+7135.4s	167	/opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+7135.4s	168	  warn(
+7135.4s	169	[NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+7135.5s	170	[NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+7136.3s	171	[NbConvertApp] Writing 71321 bytes to __notebook__.ipynb
+7138.0s	172	/opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+7138.0s	173	  warn(
