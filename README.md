@@ -4,7 +4,7 @@
 ### Team Members
 - [Francesco Fazzari](https://github.com/CiZ01)
 - [Gabriele Fabro](https://github.com/gabrielefabro)
-- [Diego Spaziani](
+- [Diego Spaziani](https://github.com/Spazio-D)
 - [Elisa Locchi](https://github.com/Lokky99)
 
 
