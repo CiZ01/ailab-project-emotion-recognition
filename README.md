@@ -1,6 +1,6 @@
 # Facial Emotion Recognition (AiLab 2022/23)
 
-A compact, end-to-end project for recognizing facial emotions from images and live video. Built around a VGG16 backbone, trained on FER-2013, and topped off with a real-time webcam demo.
+A simple project for recognizing facial emotions from images and live video. Built around a VGG16 backbone, trained on FER-2013, and topped off with a real-time webcam demo.
 
 ---
 
